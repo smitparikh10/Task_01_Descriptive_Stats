@@ -17,14 +17,6 @@ This project analyzes a CSV of Facebook ad purchases that mention 2024 U.S. pres
 - `FINDINGS.md` — 1–2 page narrative of what we learned from the data.
 - `COMPARISON.md` — Reflection on pure Python vs pandas for this task.
 
-### Dataset
-
-By default, both scripts use:
-
-`fb_ads_president_scored_anon.csv`
-
-If needed, update the `CSV_PATH` constant at the top of each script (or place a copy of the data at that path).
-
 ## Instructions to run both scripts (including dependencies)
 
 **Requirements**
